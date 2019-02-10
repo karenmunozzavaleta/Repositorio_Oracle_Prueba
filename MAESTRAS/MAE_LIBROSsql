@@ -1,0 +1,4 @@
+CREATE TABLE MAE_LIBROS(
+  v_titulo VARCHAR2(45),
+  v_autor VARCHAR(50)
+);
